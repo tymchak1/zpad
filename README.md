@@ -1,13 +1,13 @@
 # Student Information
 
-## Name
+**Name**
 
-Прізвище Ім’я  
+Тимчак Анастасія
 
-## Group
+**Group**
 
-ХХ-ХХ  
+ФБ-43  
 
-## Course, Discipline
+**Course, Discipline**
 
-Назва дисципліни
+2 курс, Засоби підготовки та аналізу даних
